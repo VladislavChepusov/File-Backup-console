@@ -1,0 +1,10 @@
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\bin\Debug\Infotecs1.exe.config
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\bin\Debug\Infotecs1.exe
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\bin\Debug\Infotecs1.pdb
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\obj\Debug\Infotecs1.csproj.AssemblyReference.cache
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\obj\Debug\Infotecs1.csproj.CoreCompileInputs.cache
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\obj\Debug\Infotecs1.exe
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\obj\Debug\Infotecs1.pdb
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlados\source\repos\Infotecs1\Infotecs1\obj\Debug\Infotecs1.csproj.CopyComplete
